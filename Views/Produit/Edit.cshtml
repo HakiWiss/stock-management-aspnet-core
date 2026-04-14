@@ -1,0 +1,80 @@
+﻿@model Gestion_de_stock.ViewModels.Category_ForniViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow rounded-4">
+                <div class="card-header bg-success text-light" style="text-align:center">
+                    <h4 class="mb-0">Edit Product</h4>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Edit">
+                        <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+                        <input type="hidden" asp-for="@Model.NewProduit.Id" />
+
+                        <div class="mb-3">
+                            <label asp-for="@Model.NewProduit.Nom" class="form-label"></label>
+                            <input asp-for="@Model.NewProduit.Nom" class="form-control" required />
+                            <span asp-validation-for="@Model.NewProduit.Nom" class="text-danger"></span>
+                            @if (ViewBag.errorProduitName != null)
+                            {
+                                <label class="text-danger">@ViewBag.errorProduitName</label>
+                            }
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="@Model.NewProduit.Description" class="form-label"></label>
+                            <input asp-for="@Model.NewProduit.Description" class="form-control" required />
+                            <span asp-validation-for="@Model.NewProduit.Description" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="@Model.NewProduit.PrixAchat" class="form-label"></label>
+                            <input asp-for="@Model.NewProduit.PrixAchat" class="form-control" required type="number" step="0.1" min="0.0" />
+                            <span asp-validation-for="@Model.NewProduit.PrixAchat" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="@Model.NewProduit.PrixVente" class="form-label"></label>
+                            <input asp-for="@Model.NewProduit.PrixVente" class="form-control" required type="number" step="0.1" min="1.0" />
+                            <span asp-validation-for="@Model.NewProduit.PrixVente" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="@Model.NewProduit.QuantiteStock" class="form-label"></label>
+                            <input asp-for="@Model.NewProduit.QuantiteStock" class="form-control" readonly />
+                            <span asp-validation-for="@Model.NewProduit.QuantiteStock" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="@Model.NewProduit.CategorieId" class="form-label">Category</label>
+                            <select asp-for="@Model.NewProduit.CategorieId" class="form-select"
+                                    asp-items="@(new SelectList(Model.Categories,"Id","Nom"))">
+                            </select>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="@Model.NewProduit.FournisseurId" class="form-label">Fournisseur</label>
+                            <select asp-for="@Model.NewProduit.FournisseurId" class="form-select"
+                                    asp-items="@(new SelectList(Model.Fournisseurs,"Id","Nom"))">
+                            </select>
+                        </div>
+
+                        <div class="d-flex justify-content-evenly align-items-center">
+                            <button type="submit" class="btn btn-success text-light px-4">Save</button>
+                            <a asp-action="Index" class="btn btn-outline-secondary">Back to List</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_Validation" />
+}

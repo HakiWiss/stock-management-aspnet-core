@@ -1,0 +1,101 @@
+﻿@model Gestion_de_stock.ViewModels.StockMovementViewModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow rounded-4">
+                <div class="card-header bg-dark text-white">
+                    <h4 class="mb-0">New Stock Movement</h4>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Create">
+                        <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                        <div class="mb-3">
+                            <label asp-for="@Model.Newstockmovement.ProduitId" class="form-label">Produit</label>
+                            <select asp-for="@Model.Newstockmovement.ProduitId" class="form-select"
+                                    asp-items="@(new SelectList(Model.Produits,"Id","Nom"))">
+                            </select>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="@Model.Newstockmovement.TypeMouvement" class="form-label">Movement Type</label>
+                            <select asp-for="@Model.Newstockmovement.TypeMouvement" class="form-select" id="movementType">
+                                <option value="Sortie" selected>Sortie</option>
+                                <option value="Entrée">Entrée</option>
+                            </select>
+                            <span asp-validation-for="@Model.Newstockmovement.TypeMouvement" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="@Model.Newstockmovement.Quantite" class="form-label"></label>
+                            <input asp-for="@Model.Newstockmovement.Quantite" class="form-control" required min="1" />
+                            <span asp-validation-for="@Model.Newstockmovement.Quantite" class="text-danger"></span>
+                            @if (ViewBag.errorQuantite != null)
+                            {
+                                <label class="text-danger">@ViewBag.errorQuantite</label>
+                            }
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="@Model.Newstockmovement.DateMouvement" class="form-label"></label>
+                            <input asp-for="@Model.Newstockmovement.DateMouvement" class="form-control" type="datetime-local"
+                                   value="@DateTime.Now.ToString("yyyy-MM-ddTHH:mm")" readonly />
+                            <span asp-validation-for="@Model.Newstockmovement.DateMouvement" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="@Model.Newstockmovement.Motif" class="form-label">Reason</label>
+                            <select asp-for="@Model.Newstockmovement.Motif" class="form-select" id="motifSelect">
+                                <option value="Vente client" selected>Vente client</option>
+                                <option value="Réapprovisionnement">Réapprovisionnement</option>
+                                <option value="Produit abîmé">Produit abîmé</option>
+                            </select>
+                            <span asp-validation-for="@Model.Newstockmovement.Motif" class="text-danger"></span>
+                        </div>
+
+                        <div class="d-flex justify-content-between align-items-center">
+                            <button type="submit" class="btn btn-info text-white px-4">Create</button>
+                            <a asp-action="Index" class="btn btn-outline-secondary">Back to List</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_Validation" />
+}
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const movementType = document.getElementById("movementType");
+        const motifSelect = document.getElementById("motifSelect");
+
+        function updateMotifOptions() {
+            const selectedType = movementType.value;
+
+            for (let i = 0; i < motifSelect.options.length; i++) {
+                motifSelect.options[i].disabled = false;
+            }
+
+            if (selectedType === "Entrée") {
+                for (let i = 0; i < motifSelect.options.length; i++) {
+                    if (motifSelect.options[i].value === "Vente client" || motifSelect.options[i].value === "Produit abîmé") {
+                        motifSelect.options[i].disabled = true;
+                    }
+                }
+                motifSelect.value = "Réapprovisionnement";
+            }
+        }
+
+        movementType.addEventListener("change", updateMotifOptions);
+        updateMotifOptions();
+    });
+</script>

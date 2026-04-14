@@ -1,0 +1,101 @@
+﻿@model IEnumerable<Gestion_de_stock.Models.Produit>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+
+
+@if (Model == null || !Model.Any())
+{
+    <h2>Empty Category</h2>
+}
+else
+{
+    <div style="display:flex; justify-content:space-between" class="mt-5 mb-2">
+        <input type="text" id="searchInput" class="form-control mb-3" placeholder="Search by name..." onkeyup="filterTable()" style="width:40%">
+        <a asp-action="Create"><button class="btn btn-info"> Create New</button></a>
+    </div>
+    
+
+    <table class="table table-striped table-hover">
+        <thead class="table-dark">
+            <tr style="font-size:15px">
+                <th onclick="sortTable(0)" style="cursor:pointer">Product Name ⬍</th>
+                <th onclick="sortTable(1)" style="cursor:pointer">Description ⬍</th>
+                <th onclick="sortTable(2)" style="cursor:pointer">Purchase Price ⬍</th>
+                <th onclick="sortTable(3)" style="cursor:pointer">Selling Price ⬍</th>
+                <th onclick="sortTable(4)" style="cursor:pointer">Stock Quantity ⬍</th>
+                <th onclick="sortTable(5)" style="cursor:pointer">Category ⬍</th>
+                <th onclick="sortTable(6)" style="cursor:pointer">Fournisseur ⬍</th>
+                <th><center>Actions</center></th>
+            </tr>
+        </thead>
+        <tbody id="productTableBody">
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.Nom)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Description)</td>
+                    <td>@Html.DisplayFor(modelItem => item.PrixAchat)</td>
+                    <td>@Html.DisplayFor(modelItem => item.PrixVente)</td>
+                    <td>@Html.DisplayFor(modelItem => item.QuantiteStock)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Categorie.Nom)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Fournisseur.Nom)</td>
+                    <td style="display:flex; justify-content:space-evenly">
+                        <a asp-action="Details" asp-route-id="@item.Id">
+                            <button class="btn btn-dark">Details</button>
+                        </a>
+                        <a asp-action="Edit" asp-route-id="@item.Id"  style="text-decoration:none; color:Highlight">Go Edit</a> |
+                        <a asp-action="Delete" asp-route-id="@item.Id" onclick="confirmDelete()" style="text-decoration:underline; color:red">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+}
+@section Scripts {
+    <partial name="_Validation" />
+}
+<script>
+    function confermDelete() {
+        if (confirm('Delete This Produit ?')) { return true; }
+        else { event.stopPropagation(); event.preventDefault(); };
+    }
+</script>
+<script>
+    function filterTable() {
+        var input = document.getElementById("searchInput");
+        var filter = input.value.toLowerCase();
+        var rows = document.querySelectorAll("#productTableBody tr");
+
+        rows.forEach(row => {
+            var nameCell = row.querySelector("td:first-child"); 
+            if (nameCell) {
+                var nameValue = nameCell.textContent.toLowerCase();
+                row.style.display = nameValue.includes(filter) ? "" : "none";
+            }
+        });
+    }
+
+    function sortTable(n) {
+        var table = document.querySelector(".table tbody");
+        var rows = Array.from(table.rows);
+        var ascending = table.dataset.sortOrder !== "asc";
+
+        rows.sort((rowA, rowB) => {
+            var cellA = rowA.cells[n].textContent.trim().toLowerCase();
+            var cellB = rowB.cells[n].textContent.trim().toLowerCase();
+            return ascending ? cellA.localeCompare(cellB, undefined, { numeric: true }) : cellB.localeCompare(cellA, undefined, { numeric: true });
+        });
+
+        table.innerHTML = "";
+        rows.forEach(row => table.appendChild(row));
+
+        table.dataset.sortOrder = ascending ? "asc" : "desc";
+    }
+</script>
+

@@ -1,0 +1,313 @@
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\appsettings.json
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\libman.json
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Gestion de stock.exe
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Gestion de stock.deps.json
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Gestion de stock.runtimeconfig.json
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Gestion de stock.runtimeconfig.dev.json
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Gestion de stock.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\ref\Gestion de stock.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Gestion de stock.pdb
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Humanizer.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.csproj.AssemblyReference.cache
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.AssemblyInfoInputs.cache
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.AssemblyInfo.cs
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.csproj.CoreCompileInputs.cache
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\staticwebassets\Gestion de stock.StaticWebAssets.Manifest.cache
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\staticwebassets\Gestion de stock.StaticWebAssets.xml
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\scopedcss\bundle\Gestion de stock.styles.css
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.RazorTargetAssemblyInfo.cache
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.csproj.CopyComplete
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.dll
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\ref\Gestion de stock.dll
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.pdb
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.genruntimeconfig.cache
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Gestion de stock.Views.dll
+C:\Users\wissa\source\repos\Gestion de stock\bin\Debug\net5.0\Gestion de stock.Views.pdb
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.RazorAssemblyInfo.cache
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.RazorAssemblyInfo.cs
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.TagHelpers.input.cache
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.TagHelpers.output.cache
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.RazorCoreGenerate.cache
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.RazorTargetAssemblyInfo.cs
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.Views.pdb
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\Razor\Views\Shared\_Validation.cshtml.g.cs
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\Razor\Views\Fournisseur\Index.cshtml.g.cs
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\Razor\Views\Produit\Index.cshtml.g.cs
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\Razor\Views\Produit\Create.cshtml.g.cs
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\Razor\Views\Produit\Edit.cshtml.g.cs
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\Razor\Views\StockMovement\Index.cshtml.g.cs
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\Razor\Views\StockMovement\Create.cshtml.g.cs
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\Razor\Views\Produit\Details.cshtml.g.cs
+C:\Users\wissa\source\repos\Gestion de stock\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\appsettings.json
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\libman.json
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Gestion de stock.StaticWebAssets.xml
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Gestion de stock.exe
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Gestion de stock.deps.json
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Gestion de stock.runtimeconfig.json
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Gestion de stock.runtimeconfig.dev.json
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Gestion de stock.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Gestion de stock.pdb
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Gestion de stock.Views.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Gestion de stock.Views.pdb
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Humanizer.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.csproj.AssemblyReference.cache
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.AssemblyInfoInputs.cache
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.AssemblyInfo.cs
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.csproj.CoreCompileInputs.cache
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.RazorAssemblyInfo.cache
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.RazorAssemblyInfo.cs
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.TagHelpers.input.cache
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.TagHelpers.output.cache
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.RazorCoreGenerate.cache
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\Razor\Views\Fournisseur\Index.cshtml.g.cs
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\Razor\Views\Produit\Create.cshtml.g.cs
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\Razor\Views\Produit\Details.cshtml.g.cs
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\Razor\Views\Produit\Edit.cshtml.g.cs
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\Razor\Views\Produit\Index.cshtml.g.cs
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\Razor\Views\Shared\_Validation.cshtml.g.cs
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\Razor\Views\StockMovement\Create.cshtml.g.cs
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\Razor\Views\StockMovement\Index.cshtml.g.cs
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.RazorTargetAssemblyInfo.cache
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.RazorTargetAssemblyInfo.cs
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.Views.pdb
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\scopedcss\bundle\Gestion de stock.styles.css
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\staticwebassets\Gestion de stock.StaticWebAssets.Manifest.cache
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\staticwebassets\Gestion de stock.StaticWebAssets.Pack.cache
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\staticwebassets\msbuild.Gestion de stock.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\staticwebassets\msbuild.build.Gestion de stock.props
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Gestion de stock.props
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Gestion de stock.props
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion .33B5DC51.Up2Date
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\refint\Gestion de stock.dll
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.pdb
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\Gestion de stock.genruntimeconfig.cache
+C:\Users\wiss\Documents\source\repos\Gestion de stock\obj\Debug\net5.0\ref\Gestion de stock.dll

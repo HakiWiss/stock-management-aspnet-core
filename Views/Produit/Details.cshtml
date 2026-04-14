@@ -1,0 +1,88 @@
+﻿@model Gestion_de_stock.Models.Produit
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div style="display:flex; justify-content:space-between" class="mt-5 mb-2">
+    <h1>@Model.Nom Movement : </h1>
+    <a href="/StockMovement/Create"><button class="btn btn-primary">New Movement</button></a>
+</div>
+
+
+@if (Model.StockMovements == null || !Model.StockMovements.Any())
+{
+    <hr />
+    <center><tr>Empty Category</tr></center>
+}
+else
+{
+    <table id="produitStockMovementsTable" class="table table-striped table-hover">
+        <thead class="table-dark ">
+            <tr style="cursor:pointer">
+                <th onclick="sortTable('produitStockMovementsBody',0)">Produit ⬍</th>
+                <th onclick="sortTable('produitStockMovementsBody',1)">TypeMouvement ⬍</th>
+                <th onclick="sortTable('produitStockMovementsBody',2)">Quantite ⬍</th>
+                <th onclick="sortTable('produitStockMovementsBody',3)">DateMouvement ⬍</th>
+                <th onclick="sortTable('produitStockMovementsBody',4)">Motif ⬍</th>
+            </tr>
+        </thead>
+        <tbody id="produitStockMovementsBody">
+            @foreach (var item in Model.StockMovements)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Produit.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TypeMouvement)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Quantite)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DateMouvement)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Motif)
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+ 
+}
+<div>
+    <a asp-action="Index"> <button class="btn btn-dark mx-4">Back to List</button></a>
+</div>
+
+<script>
+    function sortTable(tableBodyId, columnIndex) {
+        var table = document.getElementById(tableBodyId);
+        var rows = Array.from(table.rows);
+        var ascending = table.dataset.sortOrder !== "asc";
+
+        rows.sort((rowA, rowB) => {
+            var cellA = rowA.cells[columnIndex].innerText.trim();
+            var cellB = rowB.cells[columnIndex].innerText.trim();
+
+            // Convert numbers for proper sorting
+            var numA = parseFloat(cellA.replace(/[^0-9.-]+/g, ""));
+            var numB = parseFloat(cellB.replace(/[^0-9.-]+/g, ""));
+
+            let comparison;
+            if (!isNaN(numA) && !isNaN(numB)) {
+                comparison = ascending ? numA - numB : numB - numA;
+            } else {
+                comparison = ascending ? cellA.localeCompare(cellB) : cellB.localeCompare(cellA);
+            }
+
+            return comparison;
+        });
+
+        // Append sorted rows back to the table
+        rows.forEach(row => table.appendChild(row));
+
+        table.dataset.sortOrder = ascending ? "asc" : "desc";
+    }
+</script>
